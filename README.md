@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kouroshm
-- 👀 I’m interested in Software Engineering specialized in machine learning.
-- 🌱 I’m currently learning iOS development.
+- 👀 I’m I am a passionate, and motivated software engineer who specialized in machine learning.
+- 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning projects.
 - 📫 How to reach me kourosh.motavalizadeh@gmail.com
 
